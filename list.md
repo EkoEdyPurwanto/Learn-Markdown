@@ -17,12 +17,19 @@ ___
 
 1. ordered list on Nested List
 
-        1. satu
-        2. dua
-        3. tiga
+   1. satu
+   2. dua
+   3. tiga
 ___
-- unordered list on Nested List
++ unordered list on Nested List
 
-        - satu
-        - dua
-        - tiga
+     - satu
+     - dua
+     - tiga
+
+___
+## Task List
+
+- [x] satu
+- [ ] dua
+- [ ] tiga
